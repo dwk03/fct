@@ -18,11 +18,13 @@ Navigate to `Settings` -> `Themes` -> `Color Theme `-> `"Floptropica Color Theme
 
 
 <div align="center">
-  <img src="<img src="https://raw.githubusercontent.com/dwk03/fct/refs/heads/main/resources/screenshot.png" width="700">" 
-</div>
+  
 
+<img width="1362" height="731" alt="image" src="https://github.com/user-attachments/assets/5f1ade3a-1cd0-4fc1-ad9b-04bbbf49d5bf" />
+</div>
 ## HTML
 
 <div align="center">
-  <img src="<img src="https://raw.githubusercontent.com/dwk03/fct/refs/heads/main/resources/screenshot-1.png" width="700">" 
+  <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/10b19016-ea23-4f9e-9014-e631206da617" />
+
 </div>
