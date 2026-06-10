@@ -1,0 +1,28 @@
+{
+  "name": "fct",
+  "publisher": "Coramen",
+  "icon": "resources/icon.png",
+  "displayName": "Floptropica Color Theme",
+  "description": "A aesthetic slay color theme for Floptropican, including you!👁👄👁💅",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwk03/fct"
+  },
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Floptropica Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/floptropica-color-theme.json"
+      }
+    ]
+  }
+}
