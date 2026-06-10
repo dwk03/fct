@@ -1,7 +1,7 @@
 {
 	"name": "Floptropica Color Theme",
 	"colors": {
-		"editor.background": "#FF99CC",
+		"editor.background": "#ee2fde",
 		"editor.foreground": "#e233c5de",
 		"activityBarBadge.background": "#e60bfa",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -32,9 +32,12 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#d60fbbb2"
+				"foreground": "#ca46b9d3"
 			}
 		},
+
+
+		/* #d60fbbb2->  #ca46b9d3 */
 		{
 			"name": "Variables",
 			"scope": [
@@ -92,7 +95,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#fc12c1"
+				"foreground": "#f526c1"
 			}
 		},
 		{
@@ -116,7 +119,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e217e2c2"
+				"foreground": "#c017e2c2"
 			}
 		},
 		{
@@ -125,7 +128,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#fa64da"
 			}
 		},
 		{
@@ -135,7 +138,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ee5cc9"
 			}
 		},
 		{
@@ -182,7 +185,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#f062ddf3"
+				"foreground": "#da6dcbf3"
 			}
 		},
 		{
@@ -191,7 +194,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#dd52f0"
+				"foreground": "#dc6deb"
 			}
 		},
 		{
@@ -205,7 +208,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#f054db"
+				"foreground": "#ce58be"
 			}
 		},
 		{
@@ -236,7 +239,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#e750ec"
 			}
 		},
 		{
@@ -246,7 +249,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#d237f8"
+				"foreground": "#9c2ca0"
 			}
 		},
 		{
@@ -284,7 +287,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#306df1"
+				"foreground": "#aa51b3"
 			}
 		},
 		{

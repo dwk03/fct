@@ -19,7 +19,7 @@ Navigate to `Settings` -> `Themes` -> `Color Theme `-> `"Floptropica Color Theme
 <div align="center">
   
 
-<img  alt="image" src="https://github.com/user-attachments/assets/5f1ade3a-1cd0-4fc1-ad9b-04bbbf49d5bf" />
+<img alt="image" src="https://github.com/user-attachments/assets/5f1ade3a-1cd0-4fc1-ad9b-04bbbf49d5bf" />
 </div>
 <h1>HTML </h1>
 
